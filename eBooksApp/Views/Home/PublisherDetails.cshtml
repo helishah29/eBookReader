@@ -1,0 +1,45 @@
+﻿@model eBooksApp.Models.Publisher
+
+@{
+    ViewData["Title"] = "PublisherDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>PublisherDetails</h1>
+
+<div>
+    <h4>Publisher</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Identifier)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Identifier)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <h4 style="margin-bottom: 10px;">eBooks</h4>
+    @foreach (var lct in Model.eBooks)
+    {
+        <div style="padding:0px 25px; margin:0px;">
+            @Html.Label(lct.Title) -
+            @Html.Label(lct.Author)
+        </div>
+    }
+</div>
+<div style="height: 10px;"></div>
+<div class="back-to-publisher">
+    @if(User.IsInRole("Admin"))
+    { 
+    <a asp-action="EditPublisher" asp-route-id="@Model.PublisherId">Edit</a> 
+    }
+   | <a asp-action="Index">Back to List</a>
+</div>

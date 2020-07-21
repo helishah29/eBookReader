@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "DeleteError";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<h1 class="text-danger">Error</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>*@
+
+<h4>You need to first delete all the <i class="text-danger">@ViewData["child"]</i> for this <i class="text-danger">@ViewData["parent"]</i>. After deleting all the <i class="text-danger">@ViewData["child"]</i>, proceed to delete the <i class="text-danger">@ViewData["parent"]</i>.</h4>
+
+<script>
+    document.write('<a href="' + document.referrer + '">Go back to Last Page!</a>');
+</script>
+

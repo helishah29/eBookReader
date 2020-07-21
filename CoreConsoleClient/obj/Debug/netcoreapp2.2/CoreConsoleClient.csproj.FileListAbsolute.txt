@@ -1,0 +1,110 @@
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.deps.json
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.json
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.runtimeconfig.dev.json
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\bin\Debug\netcoreapp2.2\CoreConsoleClient.pdb
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.AssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.dll
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\CoreConsoleClient\obj\Debug\netcoreapp2.2\CoreConsoleClient.pdb

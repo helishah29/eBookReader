@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "NullError";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-danger">Error</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+<h4>This <i class="text-danger">@ViewData["field"]</i> does not exist.</h4>
+
+<script>
+    document.write('<a href="' + document.referrer + '">Go back to Last Page!</a>');
+</script>
+

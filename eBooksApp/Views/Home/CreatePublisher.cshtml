@@ -1,0 +1,39 @@
+﻿@model eBooksApp.Models.Publisher
+
+@{
+    ViewData["Title"] = "CreatePublisher";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CreatePublisher</h1>
+
+<h4>Publisher</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreatePublisher">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Identifier" class="control-label"></label>
+                <input asp-for="Identifier" class="form-control" />
+                <span asp-validation-for="Identifier" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="back-to-publisher">
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

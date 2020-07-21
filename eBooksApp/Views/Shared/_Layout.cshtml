@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - eBooksApp</title>
+
+
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+</head>
+<body class="grid-layout">
+    <header>
+        <nav class="abcd">
+            <div class="wrapper">
+                <div class="container">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"></a>
+                    <div class="abcd">
+                        <partial name="_LoginPartial" />
+                        <br />
+                        <nav>
+                            <ul class="nav-area">
+                                <li class="nav-item">
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                <li>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                                </li>
+                                <li class="nav-item">
+                                <li>
+                                    <a class="nav-link text-dark" href="~/StaticPages/AboutUs.html">About Us</a>
+                                </li>
+                                <li class="nav-item">
+                                <li>
+                                    <a class="nav-link text-dark" href="~/StaticPages/SiteMap.html">Site Map</a>
+                                </li>
+
+
+                            </ul>
+                        </nav>
+                        <br /> <br />
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <partial name="_CookieConsentPartial" />
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <br /> <br /> <br />
+    <footer class="XYZ">
+        <div class="container">
+            &copy; 2019 - eBooksApp - <a class="navbar-brand" href="~/StaticPages/AboutUs.html">About Us</a>
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,93 @@
+﻿@model IEnumerable<eBooksApp.Models.Publisher>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>List of Publishers</h1>
+
+<p>This is an eBooks App!</p>
+
+@*@if (!User.IsInRole("Admin") && !User.IsInRole("User"))
+{
+<p>
+    You need to login to read the eBooks.
+</p>
+}*@
+<br />
+<br />
+
+
+@if ((User.IsInRole("Admin")) || (User.IsInRole("User")))
+{
+<p>
+    <a asp-action="CreatePublisher">Create New Publisher</a>
+</p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Identifier)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            @if (User.IsInRole("Admin"))
+            {
+                <th></th>
+                <th></th>
+                <th></th>
+            }
+
+            @if (User.IsInRole("Admin") || User.IsInRole("User"))
+            {
+               <th></th>
+            }
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td style="padding: 0.1em;">
+                @Html.DisplayFor(modelItem => item.Identifier)
+            </td>
+            <td style="padding: 0.1em;">
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            @if (User.IsInRole("Admin"))
+            {
+                <td style="padding: 0.5em;">
+
+                    <a asp-action="EditPublisher" asp-route-id="@item.PublisherId">Edit Publisher</a>
+                </td>
+                <td style="padding: 0.5em;">
+
+                    <a asp-action="PublisherDetails" asp-route-id="@item.PublisherId">Publisher Details</a> 
+                </td>
+                <td style="padding: 0.5em;">
+
+                    <a asp-action="DeletePub" asp-route-id="@item.PublisherId">Delete Publisher</a>
+
+                </td>
+            }
+
+            @if (User.IsInRole("Admin") || User.IsInRole("User"))
+            {
+                <td style="padding: 0.5em;">
+                    <a asp-action="AddeBook" asp-route-id="@item.PublisherId">Add eBook</a>
+                </td>
+            }
+
+                <td style="padding: 0.5em;">
+                    <a asp-action="eBooks" asp-route-id="@item.PublisherId">View eBooks</a>
+                </td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,107 @@
+﻿@model IEnumerable<eBooksApp.Models.eBook>
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+@{
+    ViewData["Title"] = "eBooks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>eBooks</h1>
+@if (User.IsInRole("Admin") || User.IsInRole("User"))
+{
+    <p>
+        <a asp-action="Index">Create New eBook with Add eBook link on Publisher List</a>
+    </p>
+}
+
+    <table class="table">
+        <thead>
+
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Author)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Publishers)
+                </th>
+
+                    <th></th>
+                
+                    <th></th>
+                    
+                    <th></th>
+                    <th></th>
+               
+                    <th></th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td style="padding: 0.5em;">
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td style="padding: 0.5em;">
+                        @Html.DisplayFor(modelItem => item.Author)
+                    </td>
+                    <td style="padding: 0.5em;">
+                        @Html.DisplayFor(modelItem => item.Publishers.Name)
+                    </td>
+
+
+                    @if (User.IsInRole("Admin") && (item.Path != null))
+                    {
+                        <td style="padding: 0.5em;">
+                            <a asp-action="ReplaceeBook" asp-route-id="@item.eBookId">Replace eBook</a>
+                        </td>
+                    }
+
+
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <td style="padding: 0.5em;">
+
+                            <a asp-action="EditeBook" asp-route-id="@item.eBookId">Edit eBook Details</a>
+                        </td>
+
+                        <td style="padding: 0.5em;">
+                            <a asp-action="DeleteeBook" asp-route-id="@item.eBookId">Delete eBook</a>
+                        </td>
+                        <td style="padding: 0.5em;">
+                            <a asp-action="ReadeBook" asp-route-id="@item.eBookId">Read eBook</a>
+
+                        </td>
+                    }
+
+                    @if ((item.UserName != Configuration.GetSection("AppSettings")["UserEmail"]) && (!User.IsInRole("Admin")))
+                    {
+                        <td style="padding: 0.5em;">
+                            <a asp-action="ReadeBook" asp-route-id="@item.eBookId">Read eBook</a>
+                        </td>
+                    }
+                    @*<td style="padding: 0.1em;">
+                    <a asp-action="AddComment" asp-route-id="@item.eBookId">Add Comments</a>
+                </td>*@
+
+
+
+                    @*<td style="padding: 0.1em;">
+                    <a href="@item.Path">Read eBook</a>
+                </td>*@
+
+                </tr>
+            }
+            </tbody>
+    </table>
+
+    <div class="back-to-publisher">
+        <a asp-action="Index">Back to Publisher List</a>
+    </div>
+

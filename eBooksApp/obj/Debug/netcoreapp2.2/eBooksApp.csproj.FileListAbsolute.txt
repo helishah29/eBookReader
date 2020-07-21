@@ -1,0 +1,648 @@
+D:\IP\Lab11\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+D:\IP\Lab11\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+D:\IP\Lab11\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+D:\IP\Lab11\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+D:\IP\Lab11\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+D:\IP\Lab11\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+D:\IP\Lab11\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+D:\IP\Lab11\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\FinalProject\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProject - Copy\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProject - WithoutClient\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\Lab14-Himani\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\ProjectWithComments\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProjectWithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReplaceeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FinalProjectWithAllRequirements\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\UploadError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReplaceeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\UploadError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReplaceeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\UploadError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReplaceeBook.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\UploadError.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\FINAL_PROJECT_WITH_ALL_REQUIREMENTS_WEB_DELETE\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReplaceeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\UploadError.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\Final_Project_WithCSS\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.deps.json
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.json
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.runtimeconfig.dev.json
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.dll
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\bin\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csprojAssemblyReference.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CoreCompileInputs.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorAssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfoInputs.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.AssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.input.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.TagHelpers.output.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorCoreGenerate.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Login.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Logout.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreatePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeletePublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\eBooks.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditPublisher.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\FileExist.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\PublisherDetails.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReadeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ReplaceeBook.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\DeleteError.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\NullError.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\UploadError.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cache
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.RazorTargetAssemblyInfo.cs
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.Views.pdb
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.dll
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.pdb
+C:\Users\himan\Desktop\Final_Project_IP\eBooksApp\eBooksApp\obj\Debug\netcoreapp2.2\eBooksApp.csproj.CopyComplete

@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "UploadError";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-danger">Error</h1>
+<h2 class="text-danger">An error occurred while processing your request.</h2>
+
+<h4>Something went wrong!</h4>
+<h4><i class="text-danger">@ViewData["data"]</i> was not uploaded</h4>
+
+<script>
+    document.write('<a href="' + document.referrer + '">Go back to Last Page!</a>');
+</script>
+

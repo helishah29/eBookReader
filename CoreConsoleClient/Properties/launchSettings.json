@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoreConsoleClient": {
+      "commandName": "Project",
+      "commandLineArgs": "https://localhost:5001/api/eBooks /dl 10"
+    }
+  }
+}

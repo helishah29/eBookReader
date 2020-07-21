@@ -1,0 +1,162 @@
+﻿body {
+    margin-bottom: 60px;
+    font-family: Verdana;
+    color: #fff;
+    background-color: lightgrey;
+    background-size: contain;
+}
+
+.wrapper {
+    width: 1500px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.nav-area {
+    float: left;
+    list-style: none;
+    margin-top: 30px;
+    width: 900px;
+}
+
+    .nav-area li {
+        display: inline-block;
+    }
+
+        .nav-area li a {
+            color: #fff;
+            text-decoration: none;
+            padding: 5px 20px;
+            font-family: 'Play', sans-serif;
+            font-size: 20px;
+        }
+
+            .nav-area li a:hover {
+                background: #fff;
+                color: #333;
+            }
+
+.navbar-nav {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+    .navbar-nav li {
+        display: inline-block;
+    }
+
+        .navbar-nav li a {
+            color: #fff;
+            text-decoration: none;
+            padding: 5px 20px;
+            font-family: 'Play', sans-serif;
+            font-size: 20px;
+        }
+
+            .navbar-nav li a:hover {
+                background: #fff;
+                color: #333;
+            }
+
+.logo img {
+    width: 100px;
+    float: left;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+    color: black;
+}
+
+p, summary {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:Verdana;
+    
+}
+
+.container {
+    margin: auto;
+}
+
+table {
+    font-family: Verdana;
+    font-size: 14px;
+    border-collapse: collapse;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+td, th, tr {
+    padding: 10px;
+    text-align: left;
+    margin: 0;
+    font-size: 15px;
+}
+
+thead {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    color: white;
+}
+
+.XYZ {
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    border-bottom: 5px double #E0E0E0;
+    bottom: 0px;
+    left: 0px;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.form-group {
+    text-align: center;
+    background: rgba(111,111,111,0.7);
+    padding: 10px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=button] {
+    color: #fff;
+    background-color: rgb(92, 91, 91);
+}
+
+h4 {
+    text-align: center;
+    font-size:20px;
+}
+
+.grid-layout {
+    display: grid;
+    grid-template-columns: 10;
+    grid-gap: 10px;
+    
+}
+
+.sitemap{
+    text-align:center
+
+}
+
+.back-to-publisher{
+    text-align:center;
+    padding:0.5em;
+}
+
+.comment-class{
+    padding:0.8em;
+}
